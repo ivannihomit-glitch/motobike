@@ -1,4 +1,3 @@
-// js/script.js
 (function() {
     const navBtns = document.querySelectorAll('.nav-btn');
     const pages = document.querySelectorAll('.page');
